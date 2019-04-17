@@ -1,0 +1,12 @@
+navigate to where script.py is located in terminal or cmd
+type " python3 script.py " to run script.py in terminal
+
+the program should open your desktop camera 
+take a picture of the first frame 
+
+any object that wasnt in the first frame it detects that object by drawing a green square round it
+
+it also plots the time when a new object was present in the frame and records it in Times.csv as graph
+
+command + Q TO CLOSE ON A MAC
+ctrl + Q TO CLOSE ON WINDOWS
